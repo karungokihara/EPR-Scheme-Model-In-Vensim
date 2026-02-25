@@ -1,0 +1,12 @@
+# Core Simulation Engine
+pysd>=3.11.0
+
+# Data Manipulation & CSV Export
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Vensim File Parsing Support
+chardet>=5.0.0
+
+# Optional: Visualization (if your main.py creates plots)
+# matplotlib>=3.7.0
