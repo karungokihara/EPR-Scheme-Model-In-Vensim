@@ -65,9 +65,10 @@ python Main.py
 
 ---
 
-## ☕ Support
 
-If you find this research or model helpful, feel free to support my work:
+## ☕ Support
+If you find this sustainable transport research helpful:
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/erastuskihara)
 
 ## 📩 Contact
 
